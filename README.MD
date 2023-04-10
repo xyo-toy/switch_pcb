@@ -11,3 +11,6 @@ Reset info : p50-54
 
 ## Net informations
 https://electronics.stackexchange.com/questions/424912/how-can-i-program-an-atmega32u4-over-usb-with-this-schematic
+
+## Other references
+https://github.com/ruiqimao/keyboard-pcb-guide
