@@ -8,6 +8,7 @@ Usb related info: p256-259
 Information about decoupling capacitors and some components values: "Electrical characteristics"  
 Boot related info : p80, p340  
 Reset info : p50-54  
+Decoupling Capacitor : p306, p307  
 
 ## Net informations
 https://electronics.stackexchange.com/questions/424912/how-can-i-program-an-atmega32u4-over-usb-with-this-schematic
